@@ -1,0 +1,9 @@
+.container {
+  background-color: lightgoldenrodyellow;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
